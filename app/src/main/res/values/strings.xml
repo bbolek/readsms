@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadSmsOnArrive</string>
+    <string name="text_sms_sender_number">Numara : %1$s</string>
+    <string name="text_sms_message">Mesaj : %1$s</string>
+</resources>
